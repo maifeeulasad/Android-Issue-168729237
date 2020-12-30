@@ -7,7 +7,7 @@ https://issuetracker.google.com/issues/168729237
  
 ## Video
  - Device :
- - IDE :
+ - IDE : https://www.youtube.com/watch?v=jxb2lfxgzEE
  
 ## Configuration 
  - Device :
