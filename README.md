@@ -6,7 +6,7 @@ https://issuetracker.google.com/issues/168729237
  - Then change something in the Toast-String, then ... should run the app twice.
  
 ## Video
- - Device :
+ - Device : https://www.youtube.com/watch?v=SDy8q8XG8iM
  - IDE : https://www.youtube.com/watch?v=jxb2lfxgzEE
  
 ## Configuration 
