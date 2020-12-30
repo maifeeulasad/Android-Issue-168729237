@@ -15,4 +15,15 @@ https://issuetracker.google.com/issues/168729237
   ```
  - IDE :
   ```
+  Android Studio 4.1.1
+Build #AI-201.8743.12.41.6953283, built on November 5, 2020
+Runtime version: 1.8.0_242-release-1644-b3-6222593 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+Linux 5.4.0-58-generic
+GC: ParNew, ConcurrentMarkSweep
+Memory: 1246M
+Cores: 4
+Registry: ide.new.welcome.screen.force=true, external.system.auto.import.disabled=true
+
+Current Desktop: ubuntu:GNOME
   ```
