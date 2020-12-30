@@ -3,7 +3,7 @@ https://issuetracker.google.com/issues/168729237
 
 ## To reproduce :
  - Go to : https://github.com/maifeeulasad/Android-Issue-168729237/blob/672b14d4ab19d70a5f5a565f54f7ca3ef2c01828/MAPP/app/src/main/java/com/mua/myapplication/activity/InfoActivity.java#L17
- - Then change something in the Toast-String, then ... should run the app twice.
+ - Then change something in the Toast-String, then ... should run the app **twice**.
  
 ## Video
  - Device : https://www.youtube.com/watch?v=SDy8q8XG8iM
@@ -11,8 +11,8 @@ https://issuetracker.google.com/issues/168729237
  
 ## Configuration 
  - Device :
-  ```
-  ```
+ 
+   https://imgur.com/3Nkic4Z, I'm too lazy to write sometimes, just like *now*
  - IDE :
   ```
   Android Studio 4.1.1
